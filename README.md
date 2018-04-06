@@ -12,7 +12,7 @@ We finish with comments on the model uncertainty inherit in the comparison.
 
 ## Report 
 
-`Thesis-report.pdf` contains 
+`Thesis-report.pdf` contains the actual thesis. 
 
 ## Slides 
 
