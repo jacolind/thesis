@@ -26,7 +26,7 @@ If you are not experienced or want to understand the details, read the report.
 
 ## Alternative download links 
 
-[Report}(http://uu.diva-portal.org/smash/get/diva2:957489/FULLTEXT01.pdf)
+[Report](http://uu.diva-portal.org/smash/get/diva2:957489/FULLTEXT01.pdf)
 
 [Slides](https://jacoblindberg.files.wordpress.com/2017/11/jacoblindberg-acd-pres.pdf)
 
